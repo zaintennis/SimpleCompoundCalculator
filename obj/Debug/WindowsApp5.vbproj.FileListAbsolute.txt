@@ -1,0 +1,53 @@
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.vbprojAssemblyReference.cache
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.Resources.resources
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.vbproj.GenerateResource.cache
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.vbproj.CoreCompileInputs.cache
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\bin\Debug\InterestCalculator.exe.config
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\bin\Debug\InterestCalculator.exe
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\bin\Debug\InterestCalculator.pdb
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\bin\Debug\InterestCalculator.xml
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\obj\Debug\InterestCalculator.exe
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\obj\Debug\InterestCalculator.xml
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\obj\Debug\InterestCalculator.pdb
+C:\Users\zaint\source\repos\WindowsApp5\WindowsApp5\obj\Debug\WindowsApp5.Form1.resources
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.vbprojAssemblyReference.cache
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.Form1.resources
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.Resources.resources
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.vbproj.GenerateResource.cache
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.vbproj.CoreCompileInputs.cache
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\InterestCalculator.exe
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\InterestCalculator.xml
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\InterestCalculator.pdb
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.exe.config
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.exe
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.pdb
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.xml
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.Form2.resources
+C:\Users\zaint\source\repos\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.frmSplash.resources
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.exe.config
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.exe
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.pdb
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.xml
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.Form1.resources
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.frmSplash.resources
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.Form2.resources
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.Resources.resources
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\InterestCalculator.exe
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\InterestCalculator.xml
+C:\Users\User\Desktop\VB.NET\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\InterestCalculator.pdb
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.exe.config
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.exe
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.pdb
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\bin\Debug\InterestCalculator.xml
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.Form1.resources
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.frmSplash.resources
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.Form2.resources
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.Resources.resources
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\WindowsApp5.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\InterestCalculator.exe
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\InterestCalculator.xml
+C:\Users\User\Desktop\Programming\Visual Basic\Simple & Compound Interest Calculator\WindowsApp5\obj\Debug\InterestCalculator.pdb
