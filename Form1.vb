@@ -85,7 +85,7 @@
     End Sub
 
     Private Sub AboutToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutToolStripMenuItem.Click
-        MessageBox.Show("Zain - A grade 10 student currently taking Computer Science! This is his final project")
+        MessageBox.Show("Zain - A student currently taking Computer Science! This is his final project")
     End Sub
 
     Private Sub SimpleInterestToolStripMenuItem1_Click(sender As Object, e As EventArgs)
